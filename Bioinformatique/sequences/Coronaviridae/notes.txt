@@ -1,0 +1,12 @@
+- Alphacoronaviridae :
+
+Bat coronavirus CDPHE15
+Bat coronavirus HKU10
+Human coronavirus 229E
+Human coronavirus NL63
+
+-  Betacoronavirus :
+
+Human coronavirus HKU1
+Severe acute respiratory syndrome-related coronavirus
+Middle East respiratory syndrome-related coronavirus
